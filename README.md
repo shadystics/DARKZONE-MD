@@ -105,7 +105,7 @@
       <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=forhttps://dark-vps-0ff37757f9dc.herokuapp.com/-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
+      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=forhttps://irfan-host-31af0e53a2ed.herokuapp.com/-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
       <td><a href="https://app.netlify.com/" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
     </tr>
   </table>
@@ -113,7 +113,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://irfan-host-fe98bb4e138c.herokuapp.com/" target="_blank">
+      <a href="https://irfan-host-31af0e53a2ed.herokuapp.com/" target="_blank">
         <img alt="FREE-VPS-SITE" src="https://img.shields.io/badge/Deploy%20Free%20On%20VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
       </a>
     </td>
