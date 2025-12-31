@@ -98,7 +98,7 @@
   <table>
     <tr>
       <td><a href="https://dashboard.heroku.com/new?template=https://github.com/ERFAN-Md/DARKZONE-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=00ffff"/></a></td>
-       <td><a href="https://irfan-host-31af0e53a2ed.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/VPS-SITE-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+       <td><a href="https://irfan-vps-5f2d55cfceea.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/VPS-SITE-6971FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
       <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=ERFAN-Md/DARKZONE-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
@@ -113,7 +113,7 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://irfan-host-31af0e53a2ed.herokuapp.com/" target="_blank">
+      <a href="https://irfan-vps-5f2d55cfceea.herokuapp.com/" target="_blank">
         <img alt="FREE-VPS-SITE" src="https://img.shields.io/badge/Deploy%20Free%20On%20VPS-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
       </a>
     </td>
